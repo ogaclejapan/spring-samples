@@ -1,0 +1,12 @@
+.DS_Store
+target
+logs
+.classpath
+.project
+.settings
+.springBeans
+*.log
+
+node_modules
+
+

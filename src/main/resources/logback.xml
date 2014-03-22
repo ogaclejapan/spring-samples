@@ -2,7 +2,7 @@
 <!DOCTYPE logback>
 <configuration>
 
-	<contextName>java-archetype-web</contextName>
+	<contextName>spring-samples</contextName>
 
 	<!-- override property: java -D{name}={value} -->
 	<property name="LOG_HOME" value="./logs" />
